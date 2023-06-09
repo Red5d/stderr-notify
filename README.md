@@ -1,4 +1,4 @@
-# stderr_mon
+# stderr-notify
 
 A set of example scripts for building an automation monitoring solution.
 
